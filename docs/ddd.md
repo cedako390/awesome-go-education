@@ -9,7 +9,7 @@
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [Domain Driven Design in Go](https://www.citerus.se/go-ddd/)
-- [Practical DDD in Golang: Value Object](https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70)
+- [Practical DDD in Golang: Value Object](https://www.ompluscator.com/article/golang/practical-ddd-value-object)
 - [Practical DDD in Golang: Entity](https://levelup.gitconnected.com/practical-ddd-in-golang-entity-40d32bdad2a3)
 - [Practical DDD in Golang: Repository](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 - [Implementing Domain-Driven Design and Hexagonal Architecture with Go (1)](https://medium.com/@TonyBologni/implementing-domain-driven-design-and-hexagonal-architecture-with-go-1-292938c0a4d4)
